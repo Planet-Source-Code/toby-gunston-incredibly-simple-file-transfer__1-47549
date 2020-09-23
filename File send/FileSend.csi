@@ -1,0 +1,15 @@
+[History]
+B0=FileSend/frmMain/wsWait_DataArrival
+B1=FileSend/frmMain/cmdBrowseST_Click
+B2=FileSend/frmMain/Form_Load
+B3=FileSend/frmBrowse/cmdOK_Click
+B4=FileSend/frmBrowse/cmdCancel_Click
+B5=FileSend/Module1
+B6=FileSend/frmBrowse/drv_Change
+B7=FileSend/frmMain/cmdSend_Click
+B8=FileSend/frmMain/cmdWait_Click
+B9=FileSend/frmMain/DisableControls
+B10=FileSend/frmMain/cmdBrowseFTS_Click
+B11=FileSend/frmMain
+B12=FileSend/frmMain/Label2_Click
+B13=FileSend/frmMain/wsSend_SendProgress
